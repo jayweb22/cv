@@ -3,13 +3,16 @@ body{
 }
 hr{
   background-color: none;
-  border-color:#C9FDD7;
-  border-width: thick;
+  border-color:#F0DAA4;
+  border-width: 10px;
   border-style: dotted;
   border-top: none;
-  width:5%;
+  width:15%;
   height: 0px;
 }
 img{
   height: 300px
+}
+h1{
+  color: #565D47;
 }
